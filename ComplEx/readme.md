@@ -1,14 +1,6 @@
-ComplEx论文 Complex Embeddings for Simple Link Prediction
+# ComplEx论文 Complex Embeddings for Simple Link Prediction
+实验数据采用FB15K数据
 实验结果：
----------head--------
-hit1:0.576374193766823
-hit3:0.7085541128472516
-hit10:0.794789321325185
-mr:164.62634795415687
-mrr:0.6561032302137269
----------tail--------
-hit1:0.6024445159215182
-hit3:0.7404817930964432
-hit10:0.8346735284657446
-mr:129.74032943407087
-mrr:0.6860494299962363
+
+![image](https://user-images.githubusercontent.com/57054357/164180260-08f72f99-28d2-4bc0-843c-985b77b3b03b.png)
+
